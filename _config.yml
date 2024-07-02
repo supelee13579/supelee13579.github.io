@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "L BLOG"
 title_separator          : "-"
-subtitle                 : AI model Compression, Quantization
+subtitle                 : ""
 name                     : "이범수"
 description              : "An amazing website."
 url                      : "https://supelee13579.github.io"
@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "이범수"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "AI model Compression, Quantization"
+  location         : "Seoul"
+  email            : leebskhan@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
